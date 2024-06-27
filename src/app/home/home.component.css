@@ -713,8 +713,8 @@ a{ text-decoration: none;}
     }
 
     .footer-icons {
-        column-gap: 10px;
-        display: flex;
+        column-gap: 2px;
+     
     }
 
     .footer-name {
